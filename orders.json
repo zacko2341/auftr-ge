@@ -1,0 +1,22 @@
+[
+    {
+        "auftragsnummer": "dsf",
+        "strasse": "dsdhbfh",
+        "hausnummer": "fdfs",
+        "adresszusatz": "fswefe",
+        "ort": "efwfe",
+        "beschreibung": "fwef",
+        "email": "wffwf",
+        "photo_path": null
+    },
+    {
+        "auftragsnummer": "eeff",
+        "strasse": "",
+        "hausnummer": "",
+        "adresszusatz": "ewe",
+        "ort": "",
+        "beschreibung": "",
+        "email": "",
+        "photo_path": null
+    }
+]
